@@ -9,3 +9,7 @@
 3. assn03.sh
 
 4. Chapter 2 Assignment
+
+5. assn04_folder
+
+6. Chapter 3 Assignment
