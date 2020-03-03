@@ -1,0 +1,5 @@
+# The raw score records the amount of matches that a query will have with a particular sequence within the database. The size of the database does not seem to matter, though a larger database may provide better content to increase the score.
+
+# The bit score should not change with the size of the database, although the type of blast search and its parameters can heavily influence it.
+
+# The E-value is proportional to the size of the database because the value indicates the number of alignments that can occur with an equal or better score. A larger database size will give more chances to have a potentially high alignment similarity to the query.

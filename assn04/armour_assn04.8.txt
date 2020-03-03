@@ -1,0 +1,7 @@
+# (1) Under the default parameters, there were no repeats other than the whole-genome match to itself.
+
+# (2) Under the "somewhat sensitive" parameters, there were 13 repeats with the shortest being 13 bps long.
+
+# (3) Under the sensitive parameters, there were 2 repeats with the shortest being 36 bps long.
+
+# The parameter that influences the size of the smallest repeats in each setting is the word count. The default has the highest word count, whereas the most sensitive paramters has the lowest to allow for less exact matches before expanding the search window to include more base pairs in the repeat as a whole.
