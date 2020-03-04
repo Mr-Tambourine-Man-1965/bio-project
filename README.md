@@ -8,8 +8,8 @@
 
 3. assn03.sh
 
-4. Chapter 2 Assignment
+4. p4b_ch02.ipynb
 
 5. assn04_folder
 
-6. Chapter 3 Assignment
+6. p4b_ch03.ipynb
