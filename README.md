@@ -13,3 +13,5 @@
 5. assn04_folder
 
 6. p4b_ch03.ipynb
+
+7. p4b_ch04.ipynb
