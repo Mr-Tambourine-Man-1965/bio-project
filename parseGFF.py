@@ -1,5 +1,7 @@
 # Gene List
+
 # First convert "watermelon.gff" into a .csv file
+# Type into terminal "gedit parseGFF.py" to create file
 
 file = open("watermelon.gff.csv")
 file2 = open("list.txt", "w")
