@@ -15,3 +15,10 @@
 6. p4b_ch03.ipynb
 
 7. p4b_ch04.ipynb
+
+8. p4b_ch05.ipynb
+
+9. p4b_ch06.ipynb
+
+10. parseGFF.py (assn05)
+
