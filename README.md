@@ -22,3 +22,8 @@
 
 10. parseGFF.py (assn05)
 
+11. p4b_ch07.ipynb
+
+12. p4b_ch08.ipynb
+
+13. p4b_ch09.ipynb
