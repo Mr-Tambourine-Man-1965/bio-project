@@ -29,3 +29,5 @@
 13. p4b_ch09.ipynb
 
 14. parseGFF.py (assn06)
+
+15. parseGFF.py (CDS, GC_content)
